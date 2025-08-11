@@ -25,6 +25,9 @@ This repository contains the code and notebooks for a military object detection 
 * Open Loading_Model_and_Detection.ipynb in Colab and run the cells in order to test the detection on a sample image.
 
 * To change the image, upload your image to the militaryImages/images/ folder and update the Image_Path variable.
+<img width="464" height="464" alt="image" src="https://github.com/user-attachments/assets/a11fe04e-24cc-4357-aa77-b12c4ef4a974" />
+
+
 
 ## Model and Dataset
 * Model: The project uses a ssd_mobilenet_v2_fpnlite_640x640 pretrained model from the TensorFlow Model Zoo as a base. A custom model named my_ssdmobnet2_IOU0.5 is trained on top of this.
